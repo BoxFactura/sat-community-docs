@@ -8,7 +8,7 @@ IMPORTANTE: El WS **no tiene una definición de esquema**, es por eso que la
 mayoría de los framework te daran un error 404 de no existencia, es necesario
 enviar directamente el mensaje SOAP por método POST al WS, sigue leyendo.
 
-Puedes ver en la [carpeta de ejemplos](/ejemplos), un mensaje SOAP request y
+Puedes ver en la [carpeta de ejemplos](Ejemplos), un mensaje SOAP request y
 response, de nuevo, que afirman han sido probados en producción.
 
 El proceso descrito a continuación es tomado desde [esta página][3] donde
