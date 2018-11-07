@@ -48,3 +48,10 @@ Algunas de las guías que necesitamos:
 - Cómo consumir SOAP en PHP, Ruby, Javascript, etc..
 - Cómo autenticar con e.Firma.
 - Una vez funcionando el webservice, una guía de cómo usar cada URL.
+
+
+#### Vínculos con información en otros sitios o foros con buena información de estos temas:
+
+- [Como autenticarse en los webservices](http://www.validacfd.com/phpbb3/viewtopic.php?f=14&t=7935)
+
+
