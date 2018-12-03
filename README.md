@@ -53,5 +53,5 @@ Algunas de las guías que necesitamos:
 #### Vínculos con información en otros sitios o foros con buena información de estos temas:
 
 - [Como autenticarse en los webservices](http://www.validacfd.com/phpbb3/viewtopic.php?f=14&t=7935)
-
+- [Intento de Autenticacion en C#](https://github.com/diegordzr/CfdiSATRecovery)
 
